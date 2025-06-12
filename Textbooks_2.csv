@@ -1,618 +1,618 @@
 job_id,description
-1,"1. The Role of Accounting in Society
-2. Introduction to Financial Statements
-3. Analyzing and Recording Transactions
-4. The Adjustment Process
-5. Completing the Accounting Cycle
-6. Merchandising Transactions
-7. Accounting Information Systems
-8. Fraud, Internal Controls, and Cash
-9. Accounting for Receivables
-10. Inventory
-11. Long-Term Assets
-12. Current Liabilities
-13. Long-Term Liabilities
-14. Corporation Accounting
-15. Partnership Accounting
-16. Statement of Cash Flows"
-2,"1. The Canadian Financial Reporting Environment
-2. Conceptual Framework Underlying Financial Reporting
-3. The Accounting Information System
-4. Reporting Financial Performance
-5. Revenue Recognition
-6. Cash and Receivables
-7. Inventory
-8. Investments
-9. Property, Plant, and Equipment
-10. Intangible Assets and Goodwill
-11. Current Liabilities and Contingencies
-12. Non-Current Liabilities"
-3,"1. What Is Managerial Accounting?
-2. Cost Behavior and Cost Classification
-3. Job Costing
-4. Process Costing
-5. Cost-Volume-Profit Analysis
-6. Budgeting
-7. Variance Analysis
-8. Responsibility Accounting
-9. Capital Budgeting
-10. Performance Measurement
-11. Sustainability Accounting"
-4,"1. Quality Auditing: Why It Matters
-2. The Auditor's Responsibilities Regarding Fraud
-3. Internal Control Over Financial Reporting
-4. Audit Evidence
-5. Audit Planning and Analytical Procedures
-6. Materiality and Risk
-7. Overall Audit Plan and Audit Program
-8. Audit Sampling
-9. Auditing Cash and Revenue
-10. Auditing Inventory and PPE
-11. Auditing Long-Term Liabilities
-12. Completing the Audit"
-5,"1. Introduction to Cost Accounting
-2. Cost Concepts and Classifications
-3. Job Order Costing
-4. Process Costing
-5. Activity-Based Costing
-6. Cost-Volume-Profit Analysis
-7. Budgeting
-8. Standard Costs and Variance Analysis
-9. Decentralization and Performance Evaluation
-10. Capital Budgeting Decisions
-11. Pricing Products and Services
-12. The Balanced Scorecard"
-6,"1. Introduction to Financial Accounting
-2. The Accounting Process
-3. Financial Accounting Adjustments
-4. The Classified Balance Sheet
-5. Accounting for Merchandising Activities
-6. Inventory Costing Methods
-7. Internal Control and Cash
-8. Receivables
-9. Long-Lived Assets
-10. Debt Financing
-11. Equity Financing
-12. The Cash Flow Statement"
-7,"1. Introduction to AIS
-2. Transaction Processing
-3. Ethics and Fraud
-4. Internal Controls
-5. Revenue Cycle
-6. Expenditure Cycle
-7. Conversion Cycle
-8. Financial Reporting
-9. Database Systems
-10. Systems Development
-11. Auditing AIS
-12. IT Security"
-8,"1. Introduction to Taxation
-2. Tax Compliance
-3. Individual Income Taxes
-4. Business Income Taxes
-5. Property Transactions
-6. Tax Credits
-7. Retirement Plans
-8. Corporate Taxation
-9. Partnership Taxation
-10. International Taxation
-11. Tax Research
-12. Tax Ethics"
-9,"1. Introduction to Governmental Accounting
-2. Fund Accounting
-3. Budgeting
-4. Revenue Recognition
-5. Expenditures
-6. Capital Assets
-7. Long-Term Debt
-8. Financial Reporting
-9. Nonprofit Organizations
-10. Auditing Governments
-11. Performance Measurement"
-10,"1. Business Combinations
-2. Consolidated Financial Statements
-3. Foreign Currency Transactions
-4. Translation of Foreign Operations
-5. Partnerships
-6. Corporate Reorganizations
-7. Not-for-Profit Accounting
-8. Government Accounting
-9. Interim Reporting
-10. Segment Reporting
-11. Financial Instruments"
-11,"1. Introduction to Forensic Accounting
-2. Fraud Detection Techniques
-3. Financial Statement Fraud
-4. Asset Misappropriation
-5. Corruption Schemes
-6. Digital Forensics
-7. Litigation Support
-8. Expert Testimony
-9. Fraud Prevention
-10. Case Studies in Forensic Accounting"
-12,"1. Introduction to Sustainability Reporting
-2. ESG Frameworks
-3. Carbon Accounting
-4. Water Footprinting
-5. Social Responsibility Metrics
-6. Integrated Reporting
-7. Sustainability Auditing
-8. Regulatory Environment
-9. Case Studies
-10. Future Trends"
-13,"1. Nonprofit Financial Overview
-2. Budgeting for Nonprofits
-3. Restricted Funds
-4. Grant Accounting
-5. Endowment Management
-6. Financial Reporting
-7. IRS Form 990
-8. Internal Controls
-9. Audit Preparation
-10. Financial Sustainability"
-14,"1. IFRS Framework
-2. Comparative GAAP-IFRS
-3. Revenue Recognition
-4. Leases (IFRS 16)
-5. Financial Instruments
-6. Business Combinations
-7. Foreign Currency
-8. First-Time Adoption
-9. Disclosure Requirements
-10. Case Applications"
-15,"1. Ethical Frameworks
-2. Professional Codes
-3. Independence Issues
-4. Conflicts of Interest
-5. Whistleblowing
-6. Earnings Management
-7. Case Studies (Enron, WorldCom)
-8. Regulatory Environment
-9. Ethical Decision Models
-10. Building Ethical Culture"
-16,"1. The Study of Life
-2. The Chemical Foundation of Life
-3. Biological Macromolecules
-4. Cell Structure
-5. Structure and Function of Plasma Membranes
-6. Metabolism
-7. Cellular Respiration
-8. Photosynthesis
-9. Cell Communication
-10. Cell Reproduction
-11. Meiosis and Sexual Reproduction
-12. Mendel's Experiments and Heredity
-13. Modern Understandings of Inheritance
-14. DNA Structure and Function
-15. Genes and Proteins
-16. Gene Expression
-17. Biotechnology and Genomics
-18. Evolution and the Origin of Species
-19. The Evolution of Populations
-20. Phylogenies and the History of Life
-21. Viruses
-22. Prokaryotes: Bacteria and Archaea
-23. Protists
-24. Fungi
-25. Seedless Plants
-26. Seed Plants
-27. Introduction to Animal Diversity
-28. Invertebrates
-29. Vertebrates
-30. Plant Form and Physiology
-31. Soil and Plant Nutrition
-32. Plant Reproduction
-33. The Animal Body: Basic Form and Function
-34. Animal Nutrition and the Digestive System
-35. The Nervous System
-36. Sensory Systems
-37. The Endocrine System
-38. The Musculoskeletal System
-39. The Respiratory System
-40. The Circulatory System
-41. Osmotic Regulation and Excretion
-42. The Immune System
-43. Animal Reproduction and Development
-44. Ecology and the Biosphere
-45. Population and Community Ecology
-46. Ecosystems
-47. Conservation Biology and Biodiversity"
-17,"1. Essential Ideas
-2. Atoms, Molecules, and Ions
-3. Electronic Structure and Periodic Properties
-4. Chemical Bonding and Molecular Geometry
-5. Advanced Theories of Covalent Bonding
-6. Composition of Substances and Solutions
-7. Stoichiometry of Chemical Reactions
-8. Gases
-9. Thermochemistry
-10. Liquids and Solids
-11. Solutions and Colloids
-12. Thermodynamics
-13. Fundamental Equilibrium Concepts
-14. Acid-Base Equilibria
-15. Equilibria of Other Reaction Classes
-16. Electrochemistry
-17. Kinetics
-18. Nuclear Chemistry
-19. Representative Metals, Metalloids, and Nonmetals
-20. Transition Metals and Coordination Chemistry
-21. Organic Chemistry"
-18,"1. Units and Measurement
-2. Vectors
-3. Motion Along a Straight Line
-4. Motion in Two and Three Dimensions
-5. Newton's Laws of Motion
-6. Applications of Newton's Laws
-7. Work and Kinetic Energy
-8. Potential Energy and Conservation of Energy
-9. Linear Momentum and Collisions
-10. Fixed-Axis Rotation
-11. Angular Momentum
-12. Static Equilibrium and Elasticity
-13. Gravitation
-14. Fluid Mechanics
-15. Oscillations
-16. Waves
-17. Sound"
-19,"1. An Invisible World
-2. How We See the Invisible World
-3. The Cell
-4. Prokaryotic Diversity
-5. The Eukaryotes of Microbiology
-6. Acellular Pathogens
-7. Microbial Biochemistry
-8. Microbial Metabolism
-9. Microbial Growth
-10. Biochemistry of the Genome
-11. Mechanisms of Microbial Genetics
-12. Modern Applications of Microbial Genetics
-13. Control of Microbial Growth
-14. Antimicrobial Drugs
-15. Microbial Mechanisms of Pathogenicity
-16. Disease and Epidemiology
-17. Innate Nonspecific Host Defenses
-18. Adaptive Specific Host Defenses
-19. Diseases of the Immune System
-20. Laboratory Analysis of the Immune Response
-21. Skin and Eye Infections
-22. Respiratory System Infections
-23. Urogenital System Infections
-24. Digestive System Infections
-25. Circulatory and Lymphatic System Infections
-26. Nervous System Infections"
-20,"1. Science and the Universe
-2. Observing the Sky
-3. Orbits and Gravity
-4. Earth, Moon, and Sky
-5. Radiation and Spectra
-6. Astronomical Instruments
-7. Other Worlds: An Introduction to the Solar System
-8. Earth as a Planet
-9. Cratered Worlds
-10. Earthlike Planets: Venus and Mars
-11. The Giant Planets
-12. Rings, Moons, and Pluto
-13. Comets and Asteroids
-14. Cosmic Samples and the Origin of the Solar System
-15. The Sun: A Garden-Variety Star
-16. The Sun: A Nuclear Powerhouse
-17. Analyzing Starlight
-18. The Stars: A Celestial Census
-19. Celestial Distances
-20. Between the Stars: Gas and Dust in Space
-21. The Birth of Stars and the Discovery of Planets Outside the Solar System
-22. Stars from Adolescence to Old Age
-23. The Death of Stars
-24. Black Holes and Curved Spacetime
-25. The Milky Way Galaxy
-26. Galaxies
-27. Active Galaxies, Quasars, and Supermassive Black Holes
-28. The Evolution and Distribution of Galaxies
-29. The Big Bang
-30. Life in the Universe"
-21,"1. History of Neuroscience
-2. Cellular Components
-3. Electrical Properties
-4. Synaptic Transmission
-5. Sensory Systems
-6. Motor Systems
-7. Learning & Memory
-8. Emotions
-9. Language
-10. Neurological Disorders"
-22,"1. Mendelian Genetics
-2. Chromosomes
-3. DNA Structure
-4. Gene Expression
-5. Mutation
-6. Population Genetics
-7. Quantitative Traits
-8. Genomics
-9. Genetic Engineering
-10. Evolutionary Genetics"
-23,"1. Matter
-2. Atoms
-3. Bonding
-4. Stoichiometry
-5. Gases
-6. Thermodynamics
-7. Equilibrium
-8. Acids/Bases
-9. Electrochemistry
-10. Kinetics"
-24,"1. Ecosystems
-2. Population Ecology
-3. Community Ecology
-4. Behavioral Ecology
-5. Natural Selection
-6. Speciation
-7. Phylogenetics
-8. Conservation
-9. Climate Change
-10. Biomes"
-25,"1. Cell Structure
-2. Membranes
-3. Metabolism
-4. Cell Cycle
-5. Cell Signaling
-6. Cytoskeleton
-7. Extracellular Matrix
-8. Stem Cells
-9. Cancer
-10. Techniques"
-26,"1. Cosmic Evolution
-2. Planetary Formation
-3. Extreme Environments
-4. Origin of Life
-5. Early Earth
-6. Mars Exploration
-7. Icy Worlds
-8. Exoplanets
-9. Biosignatures
-10. Future Missions"
-27,"1. Ocean Systems
-2. Marine Chemistry
-3. Plankton Ecology
-4. Coral Reefs
-5. Deep Sea Ecosystems
-6. Coastal Dynamics
-7. Marine Mammals
-8. Fisheries Science
-9. Climate Impacts
-10. Conservation"
-28,"1. Wave-Particle Duality
-2. Schrödinger Equation
-3. Quantum States
-4. Angular Momentum
-5. Perturbation Theory
-6. Identical Particles
-7. Quantum Computing
-8. Entanglement
-9. Interpretations
-10. Applications"
-29,"1. Food Chemistry
-2. Microbiology
-3. Processing
-4. Preservation
-5. Packaging
-6. Sensory Analysis
-7. Regulations
-8. Novel Foods
-9. Functional Foods
-10. Safety"
-30,"1. GIS Fundamentals
-2. Coordinate Systems
-3. Remote Sensing
-4. Spatial Statistics
-5. Terrain Analysis
-6. Network Analysis
-7. Cartography
-8. Web GIS
-9. Urban Applications
-10. Environmental Modeling"
-31,"1. Economics Basics
-2. Supply & Demand
-3. Elasticity
-4. Consumer Choice
-5. Production Costs
-6. Market Structures
-7. Labor Markets
-8. Financial Markets
-9. GDP Measurement
-10. Inflation
-11. Unemployment
-12. Fiscal Policy
-13. Monetary Policy
-14. International Trade"
-32,"1. Poverty Measurement
-2. Economic Growth
-3. Inequality
-4. Human Capital
-5. Rural Development
-6. Credit Markets
-7. Health Economics
-8. Education Economics
-9. Gender Economics
-10. Environmental Issues
-11. Development Policy"
-33,"1. Rationality Limits
-2. Heuristics
-3. Prospect Theory
-4. Time Inconsistency
-5. Social Preferences
-6. Nudges
-7. Market Applications
-8. Policy Design
-9. Experimental Methods
-10. Neuroeconomics"
-34,"1. Trade Theories
-2. Trade Policy
-3. Trade Agreements
-4. Exchange Rates
-5. Balance of Payments
-6. Open Economy
-7. Financial Crises
-8. Development Strategies
-9. Globalization
-10. Current Issues"
-35,"1. Market Failures
-2. Valuation Methods
-3. Pollution Control
-4. Climate Economics
-5. Water Economics
-6. Energy Economics
-7. Renewable Resources
-8. Non-renewable Resources
-9. Environmental Policy
-10. Sustainable Development"
-36,"1. Health Production
-2. Demand for Health
-3. Insurance Markets
-4. Physician Behavior
-5. Hospital Economics
-6. Pharmaceutical Markets
-7. Health Policy
-8. Global Health
-9. Economic Evaluation
-10. Health Reform"
-37,"1. Labor Supply
-2. Labor Demand
-3. Human Capital
-4. Wage Structure
-5. Discrimination
-6. Immigration
-7. Unemployment
-8. Unions
-9. Public Policy
-10. Future of Work"
-38,"1. City Growth
-2. Land Rent
-3. Urban Transportation
-4. Housing Markets
-5. Local Government
-6. Crime Economics
-7. Education Economics
-8. Urban Poverty
-9. Smart Cities
-10. Sustainable Urbanization"
-39,"1. Strategic Form Games
-2. Nash Equilibrium
-3. Extensive Form Games
-4. Repeated Games
-5. Bayesian Games
-6. Auctions
-7. Bargaining
-8. Evolutionary Games
-9. Behavioral Game Theory
-10. Applications"
-40,"1. Regression Basics
-2. Hypothesis Testing
-3. Specification Issues
-4. Time Series
-5. Panel Data
-6. Instrumental Variables
-7. Limited Dependent Variables
-8. Nonparametric Methods
-9. Forecasting
-10. Causal Inference"
-41,"1. Government Role
-2. Public Goods
-3. Externalities
-4. Taxation Principles
-5. Income Taxes
-6. Consumption Taxes
-7. Social Insurance
-8. Welfare Programs
-9. Fiscal Federalism
-10. Public Choice"
-42,"1. Market Structure
-2. Monopoly Power
-3. Price Discrimination
-4. Oligopoly Models
-5. Cartels
-6. Mergers
-7. Vertical Relationships
-8. Advertising
-9. Innovation
-10. Regulation"
-43,"1. Money Functions
-2. Banking Systems
-3. Interest Rates
-4. Money Demand
-5. Central Banking
-6. Inflation
-7. Exchange Rates
-8. Financial Crises
-9. Monetary Policy
-10. Digital Currencies"
-44,"1. Industrial Revolution
-2. Technological Change
-3. Institutional Development
-4. Globalization Waves
-5. Financial History
-6. Labor History
-7. Agricultural Transformation
-8. Colonialism
-9. Great Depression
-10. Modern Growth"
-45,"1. Experimental Design
-2. Market Experiments
-3. Auction Experiments
-4. Bargaining Games
-5. Public Goods
-6. Coordination Games
-7. Field Experiments
-8. Neuroeconomics
-9. Policy Applications
-10. Ethics"
-46,"1. Regulatory Foundations
-2. Cost-Benefit Analysis
-3. Market Failure Analysis
-4. Price Regulation
-5. Environmental Regulation
-6. Health & Safety Regulation
-7. Financial Regulation
-8. Telecommunications Policy
-9. Energy Regulation
-10. Regulatory Reform"
-47,"1. Policy Process
-2. Problem Definition
-3. Policy Design
-4. Implementation Analysis
-5. Evaluation Methods
-6. Cost-Effectiveness
-7. Risk Assessment
-8. Political Economy
-9. Ethics in Policy
-10. Case Studies"
-48,"1. Property Law
-2. Contract Theory
-3. Tort Analysis
-4. Litigation Economics
-5. Criminal Law
-6. Antitrust
-7. Intellectual Property
-8. Environmental Law
-9. Regulation
-10. Comparative Systems"
-49,"1. Policy Instruments
-2. Emission Trading
-3. Carbon Pricing
-4. Energy Policy
-5. Water Governance
-6. Biodiversity Policy
-7. Climate Agreements
-8. Enforcement
-9. Behavioral Approaches
-10. Policy Evaluation"
-50,"1. Banking Supervision
-2. Capital Requirements
-3. Systemic Risk
-4. Consumer Protection
-5. Fintech Regulation
-6. International Standards
-7. Crisis Management
-8. Macroprudential Policy
-9. Shadow Banking
-10. Regulatory Technology"
+1,"The Role of Accounting in Society
+Introduction to Financial Statements
+Analyzing and Recording Transactions
+The Adjustment Process
+Completing the Accounting Cycle
+Merchandising Transactions
+Accounting Information Systems
+Fraud, Internal Controls, and Cash
+Accounting for Receivables
+Inventory
+Long-Term Assets
+Current Liabilities
+Long-Term Liabilities
+Corporation Accounting
+Partnership Accounting
+Statement of Cash Flows"
+2,"The Canadian Financial Reporting Environment
+Conceptual Framework Underlying Financial Reporting
+The Accounting Information System
+Reporting Financial Performance
+Revenue Recognition
+Cash and Receivables
+Inventory
+Investments
+Property, Plant, and Equipment
+Intangible Assets and Goodwill
+Current Liabilities and Contingencies
+Non-Current Liabilities"
+3,"What Is Managerial Accounting?
+Cost Behavior and Cost Classification
+Job Costing
+Process Costing
+Cost-Volume-Profit Analysis
+Budgeting
+Variance Analysis
+Responsibility Accounting
+Capital Budgeting
+Performance Measurement
+Sustainability Accounting"
+4,"Quality Auditing: Why It Matters
+The Auditor's Responsibilities Regarding Fraud
+Internal Control Over Financial Reporting
+Audit Evidence
+Audit Planning and Analytical Procedures
+Materiality and Risk
+Overall Audit Plan and Audit Program
+Audit Sampling
+Auditing Cash and Revenue
+Auditing Inventory and PPE
+Auditing Long-Term Liabilities
+Completing the Audit"
+5,"Introduction to Cost Accounting
+Cost Concepts and Classifications
+Job Order Costing
+Process Costing
+Activity-Based Costing
+Cost-Volume-Profit Analysis
+Budgeting
+Standard Costs and Variance Analysis
+Decentralization and Performance Evaluation
+Capital Budgeting Decisions
+Pricing Products and Services
+The Balanced Scorecard"
+6,"Introduction to Financial Accounting
+The Accounting Process
+Financial Accounting Adjustments
+The Classified Balance Sheet
+Accounting for Merchandising Activities
+Inventory Costing Methods
+Internal Control and Cash
+Receivables
+Long-Lived Assets
+Debt Financing
+Equity Financing
+The Cash Flow Statement"
+7,"Introduction to AIS
+Transaction Processing
+Ethics and Fraud
+Internal Controls
+Revenue Cycle
+Expenditure Cycle
+Conversion Cycle
+Financial Reporting
+Database Systems
+Systems Development
+Auditing AIS
+IT Security"
+8,"Introduction to Taxation
+Tax Compliance
+Individual Income Taxes
+Business Income Taxes
+Property Transactions
+Tax Credits
+Retirement Plans
+Corporate Taxation
+Partnership Taxation
+International Taxation
+Tax Research
+Tax Ethics"
+9,"Introduction to Governmental Accounting
+Fund Accounting
+Budgeting
+Revenue Recognition
+Expenditures
+Capital Assets
+Long-Term Debt
+Financial Reporting
+Nonprofit Organizations
+Auditing Governments
+Performance Measurement"
+10,"Business Combinations
+Consolidated Financial Statements
+Foreign Currency Transactions
+Translation of Foreign Operations
+Partnerships
+Corporate Reorganizations
+Not-for-Profit Accounting
+Government Accounting
+Interim Reporting
+Segment Reporting
+Financial Instruments"
+11,"Introduction to Forensic Accounting
+Fraud Detection Techniques
+Financial Statement Fraud
+Asset Misappropriation
+Corruption Schemes
+Digital Forensics
+Litigation Support
+Expert Testimony
+Fraud Prevention
+Case Studies in Forensic Accounting"
+12,"Introduction to Sustainability Reporting
+ESG Frameworks
+Carbon Accounting
+Water Footprinting
+Social Responsibility Metrics
+Integrated Reporting
+Sustainability Auditing
+Regulatory Environment
+Case Studies
+Future Trends"
+13,"Nonprofit Financial Overview
+Budgeting for Nonprofits
+Restricted Funds
+Grant Accounting
+Endowment Management
+Financial Reporting
+IRS Form 990
+Internal Controls
+Audit Preparation
+Financial Sustainability"
+14,"IFRS Framework
+Comparative GAAP-IFRS
+Revenue Recognition
+Leases (IFRS 6)
+Financial Instruments
+Business Combinations
+Foreign Currency
+First-Time Adoption
+Disclosure Requirements
+Case Applications"
+15,"Ethical Frameworks
+Professional Codes
+Independence Issues
+Conflicts of Interest
+Whistleblowing
+Earnings Management
+Case Studies (Enron, WorldCom)
+Regulatory Environment
+Ethical Decision Models
+Building Ethical Culture"
+16,"The Study of Life
+The Chemical Foundation of Life
+Biological Macromolecules
+Cell Structure
+Structure and Function of Plasma Membranes
+Metabolism
+Cellular Respiration
+Photosynthesis
+Cell Communication
+Cell Reproduction
+Meiosis and Sexual Reproduction
+Mendel's Experiments and Heredity
+Modern Understandings of Inheritance
+DNA Structure and Function
+Genes and Proteins
+Gene Expression
+Biotechnology and Genomics
+Evolution and the Origin of Species
+The Evolution of Populations
+ Phylogenies and the History of Life
+Viruses
+Prokaryotes: Bacteria and Archaea
+Protists
+Fungi
+Seedless Plants
+Seed Plants
+Introduction to Animal Diversity
+Invertebrates
+Vertebrates
+3 Plant Form and Physiology
+3Soil and Plant Nutrition
+3Plant Reproduction
+3The Animal Body: Basic Form and Function
+3Animal Nutrition and the Digestive System
+3The Nervous System
+3Sensory Systems
+3The Endocrine System
+3The Musculoskeletal System
+3The Respiratory System
+4 The Circulatory System
+4Osmotic Regulation and Excretion
+4The Immune System
+4Animal Reproduction and Development
+4Ecology and the Biosphere
+4Population and Community Ecology
+4Ecosystems
+4Conservation Biology and Biodiversity"
+17,"Essential Ideas
+Atoms, Molecules, and Ions
+Electronic Structure and Periodic Properties
+Chemical Bonding and Molecular Geometry
+Advanced Theories of Covalent Bonding
+Composition of Substances and Solutions
+Stoichiometry of Chemical Reactions
+Gases
+Thermochemistry
+Liquids and Solids
+Solutions and Colloids
+Thermodynamics
+Fundamental Equilibrium Concepts
+Acid-Base Equilibria
+Equilibria of Other Reaction Classes
+Electrochemistry
+Kinetics
+Nuclear Chemistry
+Representative Metals, Metalloids, and Nonmetals
+ Transition Metals and Coordination Chemistry
+Organic Chemistry"
+18,"Units and Measurement
+Vectors
+Motion Along a Straight Line
+Motion in Two and Three Dimensions
+Newton's Laws of Motion
+Applications of Newton's Laws
+Work and Kinetic Energy
+Potential Energy and Conservation of Energy
+Linear Momentum and Collisions
+Fixed-Axis Rotation
+Angular Momentum
+Static Equilibrium and Elasticity
+Gravitation
+Fluid Mechanics
+Oscillations
+Waves
+Sound"
+19,"An Invisible World
+How We See the Invisible World
+The Cell
+Prokaryotic Diversity
+The Eukaryotes of Microbiology
+Acellular Pathogens
+Microbial Biochemistry
+Microbial Metabolism
+Microbial Growth
+Biochemistry of the Genome
+Mechanisms of Microbial Genetics
+Modern Applications of Microbial Genetics
+Control of Microbial Growth
+Antimicrobial Drugs
+Microbial Mechanisms of Pathogenicity
+Disease and Epidemiology
+Innate Nonspecific Host Defenses
+Adaptive Specific Host Defenses
+Diseases of the Immune System
+ Laboratory Analysis of the Immune Response
+Skin and Eye Infections
+Respiratory System Infections
+Urogenital System Infections
+Digestive System Infections
+Circulatory and Lymphatic System Infections
+Nervous System Infections"
+20,"Science and the Universe
+Observing the Sky
+Orbits and Gravity
+Earth, Moon, and Sky
+Radiation and Spectra
+Astronomical Instruments
+Other Worlds: An Introduction to the Solar System
+Earth as a Planet
+Cratered Worlds
+Earthlike Planets: Venus and Mars
+The Giant Planets
+Rings, Moons, and Pluto
+Comets and Asteroids
+Cosmic Samples and the Origin of the Solar System
+The Sun: A Garden-Variety Star
+The Sun: A Nuclear Powerhouse
+Analyzing Starlight
+The Stars: A Celestial Census
+Celestial Distances
+ Between the Stars: Gas and Dust in Space
+The Birth of Stars and the Discovery of Planets Outside the Solar System
+Stars from Adolescence to Old Age
+The Death of Stars
+Black Holes and Curved Spacetime
+The Milky Way Galaxy
+Galaxies
+Active Galaxies, Quasars, and Supermassive Black Holes
+The Evolution and Distribution of Galaxies
+The Big Bang
+3 Life in the Universe"
+21,"History of Neuroscience
+Cellular Components
+Electrical Properties
+Synaptic Transmission
+Sensory Systems
+Motor Systems
+Learning & Memory
+Emotions
+Language
+Neurological Disorders"
+22,"Mendelian Genetics
+Chromosomes
+DNA Structure
+Gene Expression
+Mutation
+Population Genetics
+Quantitative Traits
+Genomics
+Genetic Engineering
+Evolutionary Genetics"
+23,"Matter
+Atoms
+Bonding
+Stoichiometry
+Gases
+Thermodynamics
+Equilibrium
+Acids/Bases
+Electrochemistry
+Kinetics"
+24,"Ecosystems
+Population Ecology
+Community Ecology
+Behavioral Ecology
+Natural Selection
+Speciation
+Phylogenetics
+Conservation
+Climate Change
+Biomes"
+25,"Cell Structure
+Membranes
+Metabolism
+Cell Cycle
+Cell Signaling
+Cytoskeleton
+Extracellular Matrix
+Stem Cells
+Cancer
+Techniques"
+26,"Cosmic Evolution
+Planetary Formation
+Extreme Environments
+Origin of Life
+Early Earth
+Mars Exploration
+Icy Worlds
+Exoplanets
+Biosignatures
+Future Missions"
+27,"Ocean Systems
+Marine Chemistry
+Plankton Ecology
+Coral Reefs
+Deep Sea Ecosystems
+Coastal Dynamics
+Marine Mammals
+Fisheries Science
+Climate Impacts
+Conservation"
+28,"Wave-Particle Duality
+Schrödinger Equation
+Quantum States
+Angular Momentum
+Perturbation Theory
+Identical Particles
+Quantum Computing
+Entanglement
+Interpretations
+Applications"
+29,"Food Chemistry
+Microbiology
+Processing
+Preservation
+Packaging
+Sensory Analysis
+Regulations
+Novel Foods
+Functional Foods
+Safety"
+30,"GIS Fundamentals
+Coordinate Systems
+Remote Sensing
+Spatial Statistics
+Terrain Analysis
+Network Analysis
+Cartography
+Web GIS
+Urban Applications
+Environmental Modeling"
+31,"Economics Basics
+Supply & Demand
+Elasticity
+Consumer Choice
+Production Costs
+Market Structures
+Labor Markets
+Financial Markets
+GDP Measurement
+Inflation
+Unemployment
+Fiscal Policy
+Monetary Policy
+International Trade"
+32,"Poverty Measurement
+Economic Growth
+Inequality
+Human Capital
+Rural Development
+Credit Markets
+Health Economics
+Education Economics
+Gender Economics
+Environmental Issues
+Development Policy"
+33,"Rationality Limits
+Heuristics
+Prospect Theory
+Time Inconsistency
+Social Preferences
+Nudges
+Market Applications
+Policy Design
+Experimental Methods
+Neuroeconomics"
+34,"Trade Theories
+Trade Policy
+Trade Agreements
+Exchange Rates
+Balance of Payments
+Open Economy
+Financial Crises
+Development Strategies
+Globalization
+Current Issues"
+35,"Market Failures
+Valuation Methods
+Pollution Control
+Climate Economics
+Water Economics
+Energy Economics
+Renewable Resources
+Non-renewable Resources
+Environmental Policy
+Sustainable Development"
+36,"Health Production
+Demand for Health
+Insurance Markets
+Physician Behavior
+Hospital Economics
+Pharmaceutical Markets
+Health Policy
+Global Health
+Economic Evaluation
+Health Reform"
+37,"Labor Supply
+Labor Demand
+Human Capital
+Wage Structure
+Discrimination
+Immigration
+Unemployment
+Unions
+Public Policy
+Future of Work"
+38,"City Growth
+Land Rent
+Urban Transportation
+Housing Markets
+Local Government
+Crime Economics
+Education Economics
+Urban Poverty
+Smart Cities
+Sustainable Urbanization"
+39,"Strategic Form Games
+Nash Equilibrium
+Extensive Form Games
+Repeated Games
+Bayesian Games
+Auctions
+Bargaining
+Evolutionary Games
+Behavioral Game Theory
+Applications"
+40,"Regression Basics
+Hypothesis Testing
+Specification Issues
+Time Series
+Panel Data
+Instrumental Variables
+Limited Dependent Variables
+Nonparametric Methods
+Forecasting
+Causal Inference"
+41,"Government Role
+Public Goods
+Externalities
+Taxation Principles
+Income Taxes
+Consumption Taxes
+Social Insurance
+Welfare Programs
+Fiscal Federalism
+Public Choice"
+42,"Market Structure
+Monopoly Power
+Price Discrimination
+Oligopoly Models
+Cartels
+Mergers
+Vertical Relationships
+Advertising
+Innovation
+Regulation"
+43,"Money Functions
+Banking Systems
+Interest Rates
+Money Demand
+Central Banking
+Inflation
+Exchange Rates
+Financial Crises
+Monetary Policy
+Digital Currencies"
+44,"Industrial Revolution
+Technological Change
+Institutional Development
+Globalization Waves
+Financial History
+Labor History
+Agricultural Transformation
+Colonialism
+Great Depression
+Modern Growth"
+45,"Experimental Design
+Market Experiments
+Auction Experiments
+Bargaining Games
+Public Goods
+Coordination Games
+Field Experiments
+Neuroeconomics
+Policy Applications
+Ethics"
+46,"Regulatory Foundations
+Cost-Benefit Analysis
+Market Failure Analysis
+Price Regulation
+Environmental Regulation
+Health & Safety Regulation
+Financial Regulation
+Telecommunications Policy
+Energy Regulation
+Regulatory Reform"
+47,"Policy Process
+Problem Definition
+Policy Design
+Implementation Analysis
+Evaluation Methods
+Cost-Effectiveness
+Risk Assessment
+Political Economy
+Ethics in Policy
+Case Studies"
+48,"Property Law
+Contract Theory
+Tort Analysis
+Litigation Economics
+Criminal Law
+Antitrust
+Intellectual Property
+Environmental Law
+Regulation
+Comparative Systems"
+49,"Policy Instruments
+Emission Trading
+Carbon Pricing
+Energy Policy
+Water Governance
+Biodiversity Policy
+Climate Agreements
+Enforcement
+Behavioral Approaches
+Policy Evaluation"
+50,"Banking Supervision
+Capital Requirements
+Systemic Risk
+Consumer Protection
+Fintech Regulation
+International Standards
+Crisis Management
+Macroprudential Policy
+Shadow Banking
+Regulatory Technology"
